@@ -1,4 +1,4 @@
-<>## Oi pessoal 👋
+## Oi pessoal 👋
 
 - 🌱 Atualmente estou aprendendo as primeiras noções da área de TI
 - 💬 Pergunte-me sobre nutrição, alimentação, interpretação dos seus exames
