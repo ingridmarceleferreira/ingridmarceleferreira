@@ -1,4 +1,4 @@
-## Oi pessoal 👋
+## Oi, eu sou a Ingrid Marcele 👋
 
  Da Nutrição à Tecnologia!
 🌱 Atualmente estou aprendendo as primeiras noções da área de TI
